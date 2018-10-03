@@ -1,0 +1,46 @@
+Covariate,ShortName,Description,Status
+50..Flowering,flower50pc,NA,ignore
+Anthesis.yearday,anthesisyd,NA,ignore
+Barley.Yellow.Dwarf.Virus.score,bydv,NA,ignore
+Bird.or.Animal.damage,animaldmg,NA,include
+Crown.Rot.score,crownrot,NA,ignore
+Drought.Severity.Late,drtsevlate,NA,ignore
+Early.Growth.Score,earlygs,NA,ignore
+Establishment,est,NA,if sowing problem
+Establishment.Plant.count,estplntcount,NA,ignore
+Flowering.Score,flowerscore,NA,ignore
+Frost.damage,frostdmg,NA,check with breeder
+Fungicide.applied,fungicide,NA,ignore
+General.Comments,comments,NA,ignore
+Head.Emergence..,heademergepc,NA,ignore
+Head.Loss,headloss,NA,ignore
+Head.Retention.Score,headretention,NA,ignore
+Heading.yearday,headyd,NA,ignore
+Height..cm.,ht,NA,ignore
+Herbicide.damage,herbdmg,NA,check with breeder
+Leaf.Rust.score,leafrust,NA,ignore
+Lodging.score,lodge,NA,ignore
+Missing.row.length.within.plots..m.,mssrowinplot,NA,include
+Necrosis...Leaf.Death,necrosis,NA,ignore
+Non.Wetting.Soil..,nonwetsoilpc,NA,include
+Number.of.Inside.rows.blocked,ninsiderowblocked,NA,include
+Number.of.Outside.rows.blocked,noutrowblocked,NA,include
+Number.of.Rows.per.Plot,nrowperplot,NA,ignore
+Patchiness,patch,NA,if sowing problem
+Plant.Stand.at.maturity,plntstndmat,NA,ignore
+Pratylenchus.Neglectus.score,pneglectus,NA,ignore
+Rhizoctonia.damage,rhizoct,NA,ignore
+Septoria.Nodorum.score,sepnodorum,NA,ignore
+Septoria.Tritici.score,septritici,NA,ignore
+Shattering.score,shatter,NA,ignore
+Strikeout,strikeout,NA,include
+Stripe.Rust.score,striperust,NA,ignore
+Takeall.severity,takeallsev,NA,ignore
+Tillering.Score,tiller,NA,ignore
+Waterlogging.score,waterlog,NA,include
+Weed.Contamination,weed,NA,include
+Wind.damage,winddmg,NA,check with breeder
+Yellow.Leaf.Spot.score,yllwleafspot,NA,ignore
+Yellowing.score,yllwing,NA,ignore
+Zadoks.score,zadoks,NA,ignore
+Temperature.Graph,tempgrph,NA,ignore
